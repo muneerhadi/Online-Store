@@ -1,2 +1,17 @@
-# Online-Store
-Modern online store frontend built with pure HTML, CSS, JavaScript. Features responsive homepage, product catalog with filtering, about page with brand story, and contact form with validation. Fully functional e-commerce interface using only core web technologies—no frameworks required. Clean design, smooth animations, mobile-friendly.
+# Online Store Frontend
+
+A modern e-commerce website built with HTML, CSS, and JavaScript.
+
+## 🌐 Live Demo
+[View Live Site](https://muneerhadi.github.io/online-store/)
+
+## Features
+- Responsive design
+- Product catalog
+- Contact form
+- About page
+
+## Technologies
+- HTML5
+- CSS3
+- JavaScript
