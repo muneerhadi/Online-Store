@@ -3,7 +3,7 @@
 A modern e-commerce website built with HTML, CSS, and JavaScript.
 
 ## 🌐 Live Demo
-[View Live Site](https://muneerhadi.github.io/online-store/index.html)
+[View Live Site](https://muneerhadi.github.io/Online-Store/index.html)
 
 ## Features
 - Responsive design
